@@ -1,3 +1,3 @@
 # calculadorapython
 
-Código en python de Calculadora básica.
+Código en python usando la librería Tkinter de una Calculadora básica.
